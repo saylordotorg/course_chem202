@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM202: Advanced Inorganic Chemistry"
+course_description: "A detailed study of the various aspects of inorganic complexes, their physical and chemical properties, and the practical applications that these complexes can have in industrial, analytical, and medicinal chemistry."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation’s CHEM202 Final Exam**
 

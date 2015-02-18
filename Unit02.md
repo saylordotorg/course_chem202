@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM202: Advanced Inorganic Chemistry"
+course_description: "A detailed study of the various aspects of inorganic complexes, their physical and chemical properties, and the practical applications that these complexes can have in industrial, analytical, and medicinal chemistry."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Molecular Orbital Theory and Symmetry** <span id="2"></span> 
 *Molecular orbital (MO) theory is a detailed explanation of how
 electrons are distributed in molecules.  In your organic chemistry

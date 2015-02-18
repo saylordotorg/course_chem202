@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM202: Advanced Inorganic Chemistry"
+course_description: "A detailed study of the various aspects of inorganic complexes, their physical and chemical properties, and the practical applications that these complexes can have in industrial, analytical, and medicinal chemistry."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Electronic Spectra of Transition Metal Complexes** <span
 id="4"></span> 
 *As mentioned in the previous unit, electrons in d orbitals can be

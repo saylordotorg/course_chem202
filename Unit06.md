@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM202: Advanced Inorganic Chemistry"
+course_description: "A detailed study of the various aspects of inorganic complexes, their physical and chemical properties, and the practical applications that these complexes can have in industrial, analytical, and medicinal chemistry."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Organometallics of Transition Metals** <span id="6"></span> 
 *Organometallic chemistry is the study of chemical compounds containing
 bonds between carbon atom(s) and a metal.  Organometallic chemistry

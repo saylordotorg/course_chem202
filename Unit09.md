@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM202: Advanced Inorganic Chemistry"
+course_description: "A detailed study of the various aspects of inorganic complexes, their physical and chemical properties, and the practical applications that these complexes can have in industrial, analytical, and medicinal chemistry."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Catalysis** <span id="9"></span> 
 *In general, catalysts can be divided into two categories—heterogeneous
 and homogeneous.  In a heterogeneous reaction system, the catalyst is in
