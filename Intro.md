@@ -144,3 +144,4 @@ course or review the information contained in the prerequisite courses.
 - [Unit 9](https://legacy.saylor.org/chem202/Unit09/)
 - [Unit 10](https://legacy.saylor.org/chem202/Unit10/)
 - [Unit 11](https://legacy.saylor.org/chem202/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM202/CHEM202-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM202/CHEM202-FinalExam-Answers.html)
